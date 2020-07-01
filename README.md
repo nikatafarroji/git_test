@@ -1,0 +1,1 @@
+This is Nika's first Git project!
